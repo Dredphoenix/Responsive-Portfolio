@@ -25,12 +25,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: auto;
 }
 .container {
   position: relative;
   width: 100vw;
-  height: 100vh;
+  height: auto;
 }
 .image {
   width: 100vw;
